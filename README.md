@@ -1,2 +1,2 @@
 # juliakreutzer.github.io
-website
+Hi there!
