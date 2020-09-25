@@ -12,6 +12,7 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 - **Sep 2020**:
   - *Paper accepted at EMNLP 2020.* Summarizing my internship project at Google, this paper analyses generation orders for mask-based non-autoregressive translation. Preprint coming.
   - *Paper accepted at EMNLP Findings 2020.* Follow-up on the AfricaNLP paper about the Masakhane project. Preprint coming.
+  - My thesis is officially published, you can download it [here](https://doi.org/10.11588/heidok.00028862).
 - **Apr 2020**:
   - *Paper accepted at EAMT 2020.* This paper concludes my PhD thesis and empirically measures the trade-off between (human) feedback strength and model improvement in machine translation. Preprint [here](https://arxiv.org/pdf/2004.11222.pdf).
 - **Mar 2020**: 
