@@ -4,11 +4,13 @@ I'm a research scientist at [Google Research, Montreal](https://research.google/
 In my PhD (Heidelberg University, Germany) I investigated *how reinforcement learning algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system*.
 
 One of my long-term goals is to make research in NLP more accessible, along multiple dimensions: 
-1. **The long tail**: Produce research outcomes for low-resource and under-exposed languages, such that not only English-speaking users can benefit from the progress we're making in NLP. 
+1. **Underresourced NLP**: Produce research outcomes for underresourced languages, such that not only English-speaking users can benefit from the progress we're making in NLP. 
 2. **Novices**: Reduce the entry burdens (in terms of coding and research practices)  for novices in the field, especially for new students or researchers from other related areas.
 3. **Science outreach**: Get the general public, especially highschool students, more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
 
 ## News
+- **Oct 2020**:
+  - *Paper accepted at COLING 2020.* See [here](https://twitter.com/andre_niyongabo/status/1311719244703297536).
 - **Sep 2020**:
   - *Paper accepted at EMNLP 2020.* Summarizing my internship project at Google, this paper analyses generation orders for mask-based non-autoregressive translation. Preprint coming.
   - *Paper accepted at EMNLP Findings 2020.* Follow-up on the AfricaNLP paper about the Masakhane project. Preprint coming.
