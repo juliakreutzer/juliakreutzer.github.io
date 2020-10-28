@@ -10,11 +10,14 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 
 ## News
 - **Oct 2020**:
+  - *Paper accepted at LoresMT 2020.* Preprint coming soon.
   - *Paper accepted at COLING 2020.* See [here](https://twitter.com/andre_niyongabo/status/1311719244703297536).
 - **Sep 2020**:
-  - *Paper accepted at EMNLP 2020.* Summarizing my internship project at Google, this paper analyses generation orders for mask-based non-autoregressive translation. Preprint coming.
-  - *Paper accepted at EMNLP Findings 2020.* Follow-up on the AfricaNLP paper about the Masakhane project. Preprint coming.
+  - *Paper accepted at EMNLP 2020.* Summarizing my internship project at Google, this paper analyses inference strategies for mask-based semi-autoregressive translation. Preprint [here](https://arxiv.org/pdf/2010.02352.pdf).
+  - *Paper accepted at EMNLP Findings 2020.* Follow-up on the AfricaNLP paper about the [Masakhane community](https://www.masakhane.io/) and participatory research for low-resource machine translation. Preprint [here](https://arxiv.org/pdf/2010.02353.pdf).
   - My thesis is officially published, you can download it [here](https://doi.org/10.11588/heidok.00028862).
+- **Jul 2020**:
+  - [Invited talk](https://europe.naverlabs.com/research/seminars/reinforcement-learning-with-human-feedback-for-neural-machine-translation/) at NAVER LABS Europe: "Reinforcement learning with human feedback for neural machine translation".
 - **Apr 2020**:
   - *Paper accepted at EAMT 2020.* This paper concludes my PhD thesis and empirically measures the trade-off between (human) feedback strength and model improvement in machine translation. Preprint [here](https://arxiv.org/pdf/2004.11222.pdf).
 - **Mar 2020**: 
