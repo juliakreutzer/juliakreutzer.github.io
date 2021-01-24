@@ -10,7 +10,7 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 
 ## News
 - **Jan 2021**: 
-  - [MeMentor session](https://mementor.net/#/session/600b178c6e2ab623d88be06c) on NLP Paper Writing. [Slides](https://juliakreutzer.github.io/mementor_writing.pdf) <embed src="https://juliakreutzer.github.io/mementor_writing.pdf" width="100%" height="850px"/>
+  - [MeMentor session](https://mementor.net/#/session/600b178c6e2ab623d88be06c) on NLP Paper Writing. [Slides](https://github.com/juliakreutzer/juliakreutzer.github.io/blob/master/mementor_writing.pdf) 
 - **Oct 2020**:
   - *Paper accepted at LoresMT 2020.* Preprint coming soon.
   - *Paper accepted at COLING 2020.* See [here](https://twitter.com/andre_niyongabo/status/1311719244703297536).
