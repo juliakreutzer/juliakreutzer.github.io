@@ -9,6 +9,8 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 3. **Science outreach**: Get the general public, especially highschool students, more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
 
 ## News
+- **Jan 2021**: 
+  - [MeMentor session](https://mementor.net/#/session/600b178c6e2ab623d88be06c) on NLP Paper Writing. [Slides](https://juliakreutzer.github.io/mementor_writing.pdf) <embed src="https://juliakreutzer.github.io/mementor_writing.pdf" width="100%" height="850px"/>
 - **Oct 2020**:
   - *Paper accepted at LoresMT 2020.* Preprint coming soon.
   - *Paper accepted at COLING 2020.* See [here](https://twitter.com/andre_niyongabo/status/1311719244703297536).
