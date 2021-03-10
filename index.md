@@ -47,3 +47,6 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 - [HumanMT: Human feedback for MT from different interfaces](https://www.cl.uni-heidelberg.de/statnlpgroup/humanmt/)
 - [Blog post on RL for NMT](https://www.cl.uni-heidelberg.de/statnlpgroup/blog/rl4nmt/)
 - [Blog post on Joey NMT](https://www.cl.uni-heidelberg.de/statnlpgroup/blog/joey/)
+
+## Contact
+Email: <lowercase first letter of my first name><lowercase last name>@google.com
