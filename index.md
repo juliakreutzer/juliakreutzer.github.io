@@ -49,4 +49,4 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 - [Blog post on Joey NMT](https://www.cl.uni-heidelberg.de/statnlpgroup/blog/joey/)
 
 ## Contact
-Email: <lowercase first letter of my first name><lowercase last name>@google.com
+Email: \<lowercase first letter of my first name\>\<lowercase last name\>@google.com
