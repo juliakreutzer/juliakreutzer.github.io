@@ -12,7 +12,7 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 - **Mar 2021**:
   - *2 accepted papers at AfricaNLP, and one at NAACL-HLT.* Details to come :)  
 - **Feb 2021**:
-  - [PyDataMTL talk] about "Learning to translate with JoeyNMT". [Slides](https://www.slideshare.net/juliaaakreutzer/learning-to-translate-with-joey-nmt-243430521) and [recording](https://www.youtube.com/watch?v=RG-yV5zgqjQ) are available. The notebook that was used in the demo is [here](https://github.com/joeynmt/joeynmt/blob/master/joey_demo.ipynb). It trains and evaluates a Transformer on Tatoeba data for a language pair of choice.
+  - [PyData Montreal talk](https://www.meetup.com/PyData-MTL/) about "Learning to translate with JoeyNMT". [Slides](https://www.slideshare.net/juliaaakreutzer/learning-to-translate-with-joey-nmt-243430521) and [recording](https://www.youtube.com/watch?v=RG-yV5zgqjQ) are available. The notebook that was used in the demo is [here](https://github.com/joeynmt/joeynmt/blob/master/joey_demo.ipynb). It trains and evaluates a Transformer on Tatoeba data for a language pair of choice.
 - **Jan 2021**: 
   - [MeMentor session](https://mementor.net/#/session/600b178c6e2ab623d88be06c) on NLP Paper Writing. Contact me for the slides.
 - **Oct 2020**:
