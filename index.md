@@ -2,6 +2,7 @@
 I'm a research scientist at [Google Research, Montreal](https://research.google/locations/montreal/), where I work on improving [machine translation](https://research.google/research-areas/machine-translation/). I'm generally interested in the **intersection of natural language processing (NLP) and machine learning**.
 
 In my PhD (Heidelberg University, Germany) I investigated *how reinforcement learning algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system*.
+More recently, I have focused on improving *multilinguality, language diversity and data quality* in machine translation.
 
 One of my long-term goals is to make research in NLP more accessible, along multiple dimensions: 
 1. **Underresourced NLP**: Foster research for underresourced languages and by underrepresented groups, such that not only English-speaking users can benefit from the progress we're making in NLP. 
@@ -9,6 +10,9 @@ One of my long-term goals is to make research in NLP more accessible, along mult
 3. **Science outreach**: Get the general public, especially highschool students, more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
 
 ## News
+- **Oct 2022**: On parental leave for a year.
+ 
+<!--
 - **Mar 2021**:
   - *2 accepted papers at AfricaNLP, and one at NAACL-HLT.* Details to come :)  
 - **Feb 2021**:
@@ -26,8 +30,6 @@ One of my long-term goals is to make research in NLP more accessible, along mult
   - [Invited talk](https://europe.naverlabs.com/research/seminars/reinforcement-learning-with-human-feedback-for-neural-machine-translation/) at NAVER LABS Europe: "Reinforcement learning with human feedback for neural machine translation".
 - **Apr 2020**:
   - *Paper accepted at EAMT 2020.* This paper concludes my PhD thesis and empirically measures the trade-off between (human) feedback strength and model improvement in machine translation. Preprint [here](https://arxiv.org/pdf/2004.11222.pdf).
-
-<!--
 - **Mar 2020**: 
   - Successfully defended my PhD thesis.
   - *Papers accepted at the AfricaNLP workshop at ICLR.* 
