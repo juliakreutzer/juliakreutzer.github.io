@@ -1,4 +1,7 @@
 title: Julia Kreutzer
 description: Research Scientist at Google
-theme: jekyll-theme-minimal
 future: true
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
