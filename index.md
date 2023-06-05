@@ -1,13 +1,15 @@
 ## About Me
 I'm a research scientist at [Google Research, Montreal](https://research.google/locations/montreal/), where I work on improving [machine translation](https://research.google/research-areas/machine-translation/). I'm generally interested in the **intersection of natural language processing (NLP) and machine learning**.
 
-In my PhD (Heidelberg University, Germany) I investigated *how reinforcement learning algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system*.
-More recently, I have focused on improving *multilinguality, language diversity and data quality* in machine translation.
+In my PhD (Heidelberg University, Germany) I investigated how *reinforcement learning* algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system.
+More recently, I have focused on improving *multilinguality, language diversity and data quality* in machine translation and related applications.
 
-One of my long-term goals is to make research in NLP more accessible, along multiple dimensions: 
+My long-term goal for NLP research is to make it more accessible, along multiple dimensions: 
 1. **Underresourced NLP**: Foster research for underresourced languages and by underrepresented groups, such that not only English-speaking users can benefit from the progress we're making in NLP. 
 2. **Novices**: Reduce the entry burdens (in terms of coding and research practices)  for novices in the field, especially for new students or researchers from other related areas.
 3. **Science outreach**: Get the general public, especially highschool students, more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
+
+I host research interns at Google (usually in the summer) and also supervise students externally, and I love collaborating across continents/cultures/disciplines/companies/..., so please drop me an email with details about the collaboration you're looking for and we'll have a chat.
 
 ## News
 - **Oct 2022**: On parental leave for a year.
