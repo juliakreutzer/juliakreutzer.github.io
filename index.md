@@ -1,5 +1,5 @@
 ## About Me
-I'm a research scientist at [Google Research, Montreal](https://research.google/locations/montreal/), where I work on improving [machine translation](https://research.google/research-areas/machine-translation/). I'm generally interested in the **intersection of natural language processing (NLP) and machine learning**.
+I'm a research scientist at [Cohere for AI](https://cohere.for.ai/). Previously I worked at [Google Research, Montreal](https://research.google/locations/montreal/), with a focus on [machine translation](https://research.google/research-areas/machine-translation/). I'm generally interested in the **intersection of natural language processing (NLP) and machine learning**.
 
 In my PhD (Heidelberg University, Germany) I investigated how *reinforcement learning* algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system.
 More recently, I have focused on improving *multilinguality, language diversity and data quality* in machine translation and related applications.
@@ -9,10 +9,10 @@ My long-term goal for NLP research is to make it more accessible, along multiple
 2. **Novices**: Reduce the entry burdens (in terms of coding and research practices)  for novices in the field, especially for new students or researchers from other related areas.
 3. **Science outreach**: Get the general public, especially highschool students, more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
 
-I host research interns at Google (usually in the summer) and also supervise students externally, and I love collaborating across continents/cultures/disciplines/companies/..., so please drop me an email with details about the collaboration you're looking for and we'll have a chat.
+<!--I host research interns at Google (usually in the summer) and also supervise students externally, and I love collaborating across continents/cultures/disciplines/companies/..., so please drop me an email with details about the collaboration you're looking for and we'll have a chat.-->
 
 ## News
-- **Oct 2022**: On parental leave for a year.
+- **Oct 2023**: Joining Cohere for AI after one year of parental leave.
  
 <!--
 - **Mar 2021**:
