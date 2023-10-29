@@ -53,4 +53,4 @@ My long-term goal for NLP research is to make it more accessible, along multiple
 - [Blog post on Joey NMT](https://www.cl.uni-heidelberg.de/statnlpgroup/blog/joey/)
 
 ## Contact
-Email: \<lowercase first letter of my first name\>\<lowercase last name\>@google.com
+Email: \<lowercase first + last name\>.jul@gmail.com
