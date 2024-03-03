@@ -1,7 +1,7 @@
 ## About Me
-I'm a research scientist at [Cohere for AI](https://cohere.for.ai/). Previously I worked at [Google Research, Montreal](https://research.google/locations/montreal/), with a focus on [machine translation](https://research.google/research-areas/machine-translation/). I'm generally interested in the **intersection of natural language processing (NLP) and machine learning**.
+I'm a research scientist at [Cohere for AI](https://cohere.for.ai/), where I conduct research on large language models, centered around multilinguality, reinforcement learning, and evaluation. Previously I worked at [Google Research, Montreal](https://research.google/locations/montreal/), with a focus on [machine translation](https://research.google/research-areas/machine-translation/). Very broadly speaking, I am interested in the **intersection of natural language processing (NLP) and machine learning**, especially where multiple languages come into play.
 
-In my PhD (Heidelberg University, Germany) I investigated how *reinforcement learning* algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system.
+In my PhD (Heidelberg University, Germany) I investigated how *reinforcement learning* algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system (=RLHF before it was cool).
 More recently, I have focused on improving *multilinguality, language diversity and data quality* in machine translation and related applications.
 
 My long-term goal for NLP research is to make it more accessible, along multiple dimensions: 
@@ -12,7 +12,10 @@ My long-term goal for NLP research is to make it more accessible, along multiple
 <!--I host research interns at Google (usually in the summer) and also supervise students externally, and I love collaborating across continents/cultures/disciplines/companies/..., so please drop me an email with details about the collaboration you're looking for and we'll have a chat.-->
 
 ## News
-- **Oct 2023**: Joining Cohere for AI after one year of parental leave.
+- **Feb 2024**: Giving a guest lecture on the Aya project in Siva Reddy's class on [Natural Language Understanding with Deep Learning / Computational Semantics](https://mcgill-nlp.github.io/teaching/comp545-ling782-484-W24/) at McGill. Slides available upon request.
+- **Feb 2024**: New preprint about RLHF: ["Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs"](https://cohere.com/research/papers/back-to-basics-revisiting-reinforce-style-optimization-for-learning-from-human-feedback-in-llms-2024-02-23). This work led by Cohere for AI scholar [Arash Ahmadian](https://scholar.google.ca/citations?user=T-xossMAAAAJ&hl=en) scrutinizes the popular PPO algorithm for RLHF in LLMs, and presents effective but simpler alternatives that are grounded in the classic (and basic!) REINFORCE algorithm. Throwback to my PhD topic :)
+- **Feb 2024**: [Project Aya](https://cohere.com/research/aya) released its [model](https://huggingface.co/CohereForAI/aya-101) and [data](https://huggingface.co/datasets/CohereForAI/aya_dataset)! Detailed documentation can be found in the preprints ([model](https://cohere.com/research/papers/aya-model-paper-2024-02-13), [data](https://cohere.com/research/papers/aya-dataset-paper-2024-02-13)). This work is the result of a massive open-science collaboration, aiming to build a massively multilingual instruction fine-tuned large language model. My own contributions focus on testing the model for bias, toxicity and harm, and on conducting and comparing human and automatic evaluation of open-ended generation quality.
+- **Oct 2023**: Joining the [Cohere for AI](https://cohere.com/research) lab after one year of parental leave.
  
 <!--
 - **Mar 2021**:
@@ -53,4 +56,4 @@ My long-term goal for NLP research is to make it more accessible, along multiple
 - [Blog post on Joey NMT](https://www.cl.uni-heidelberg.de/statnlpgroup/blog/joey/)
 
 ## Contact
-Email: \<lowercase first + last name\>.jul@gmail.com
+Email: \<lowercase first + last name\>.@cohere.com
