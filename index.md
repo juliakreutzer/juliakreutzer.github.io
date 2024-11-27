@@ -12,8 +12,6 @@ Previously, in my PhD at Heidelberg University, Germany, I investigated how *rei
 
 ⏳I am not very good at keeping this web presence up to date - if there's no recent news below, it probably means I was busy doing more important things.
 
-<!--I host research interns at Google (usually in the summer) and also supervise students externally, and I love collaborating across continents/cultures/disciplines/companies/..., so please drop me an email with details about the collaboration you're looking for and we'll have a chat.-->
-
 ## News
 - **Oct 2024**: Back at work after parental leave 👶
 - **EMNLP 2024**: Three scholar-led projects were accepted at EMNLP! Couldn't be more proud of their achievements, it was an honor mentoring them.
