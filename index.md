@@ -8,9 +8,9 @@ Previously, in my PhD at Heidelberg University ([StatNLP group](https://www.cl.u
 2. **Novices**: Reduce the entry burdens (in terms of coding and research practices)  for novices in the field, especially for new students or researchers from other related areas.
 3. **Science outreach**: Get the general public more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
 
-👨‍👩‍👧‍👦 I am also the mom of a two toddlers, so if you'd like to connect to chat about balancing family and research, I don't have much advice but lots of experience to share, and I am motivated to make research a more supportive place for young families.
+👨‍👩‍👧‍👦 I am mom of a two toddlers, so if you'd like to connect to chat about balancing family and research, I don't have much advice but lots of experience to share, and I am motivated to make research a more supportive place for young families.
 
-⏳ Last updated: 23 July 2025. If there's no recent news below, it probably means I was busy doing more important things.
+⏳ Last updated: 15 August 2025. If there's no recent news below, it probably means I was busy doing more important things.
 
 ## News
 - The evaluation saga continues: I had the honor to co-author another [blog post](https://cohere.com/blog/elo-ratings-beyond-arena-style-evaluations) with Singapore AI on LLM evaluation with Elo scores.
