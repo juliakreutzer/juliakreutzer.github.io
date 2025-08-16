@@ -3,18 +3,20 @@ I'm a senior research scientist at [Cohere for Labs](https://cohere.com/research
 
 Previously, in my PhD at Heidelberg University ([StatNLP group](https://www.cl.uni-heidelberg.de/statnlpgroup/)), I investigated how *reinforcement learning* algorithms can be used to turn weak supervision signals from users into meaningful updates for a machine translation system (=RLHF before it was cool).
 
-🎯My long-term goal for NLP research is to make it more accessible, along multiple dimensions: 
+🎯 My long-term goal for NLP research is to make it more accessible, along multiple dimensions: 
 1. **Underresourced NLP**: Foster research for underresourced languages and by underrepresented groups, such that not only English-speaking users can benefit from the progress we're making in NLP. 
 2. **Novices**: Reduce the entry burdens (in terms of coding and research practices)  for novices in the field, especially for new students or researchers from other related areas.
 3. **Science outreach**: Get the general public more interested in research in machine learning to grow a better understanding of what our current methods look like and where their limitations are.
 
-👨‍👩‍👧‍👦I am also the mom of a two toddlers, so if you'd like to connect to chat about balancing family and research, I don't have much advice but lots of experience to share, and I am motivated to make research a more supportive place for young families.
+👨‍👩‍👧‍👦 I am also the mom of a two toddlers, so if you'd like to connect to chat about balancing family and research, I don't have much advice but lots of experience to share, and I am motivated to make research a more supportive place for young families.
 
 ⏳ Last updated: 23 July 2025. If there's no recent news below, it probably means I was busy doing more important things.
 
 ## News
+- The evaluation saga continues: I had the honor to co-author another [blog post](https://cohere.com/blog/elo-ratings-beyond-arena-style-evaluations) with Singapore AI on LLM evaluation with Elo scores.
+- Applications for our [Cohere Labs scholar program](https://cohere.com/research/scholars-program) are open until 29 August. Come explore unknown with us and dive deep into research! 
 - **COLM**: I'm DEI Co-Chair at [COLM 2025](https://colmweb.org/index.html). We provide financial assistance, free registration through a volunteering program, and childcare support. Applications for these programs are open until **July 31** - visit the conference website for the application forms.
-- Paper on **multilingual LLM evaluation practices** accepted at COLM (["Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation"](https://arxiv.org/abs/2504.11829)), a fun collaboration with colleagues from Cohere and former colleagues from Google. We compile a [checklist](https://github.com/CohereLabs/multilingual-llm-evaluation-checklist) to guide multilingual LLM evaluations, and release the [paper's LLM-as-a-judge evaluations](https://huggingface.co/datasets/CohereLabs/deja-vu-pairwise-evals) for better transparency. Check out the [**LLM Club Talk**](https://www.youtube.com/watch?v=jXXRRhQOcbk&themeRefresh=1) about this paper and related evaluation discussions.
+- Paper on **multilingual LLM evaluation practices** accepted at COLM (["Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation Evaluation"](https://arxiv.org/abs/2504.11829)), a fun collaboration with colleagues from Cohere and former colleagues from Google. We compile a [checklist](https://github.com/CohereLabs/multilingual-llm-evaluation-checklist) to guide multilingual LLM evaluations, and release the [paper's LLM-as-a-judge evaluations](https://huggingface.co/datasets/CohereLabs/deja-vu-pairwise-evals) for better transparency. Check out the [**LLM Journal Club Talk**](https://www.youtube.com/watch?v=jXXRRhQOcbk&themeRefresh=1) about this paper and related evaluation discussions.
 - Preprint on **test-time scaling of multilingual LLMs** released, led by Cohere Labs' scholar Ammar Khairi: ["When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs"](https://arxiv.org/abs/2506.20544). Taking the perspective of making the most of little compute investments, we propose new sampling and selection strategies for parallel scaling to better handle variance in heterogenous test-time applications from different languages, tasks and domains. 
 - Preprint on **training with data markers** released, joint work with colleagues from Cohere and led by Daniel D'souza: ["Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers"](https://arxiv.org/abs/2506.14702). We show that when you tag fine-tuning data with meta-information, it gives you a powerful lever at inference time, e.g. to improve performance on long-tail examples.
 - Two preprints on **multilingual safety in LLMs** released:
@@ -23,6 +25,7 @@ Previously, in my PhD at Heidelberg University ([StatNLP group](https://www.cl.u
 - Preprint on **crosslingual reasoning** released, led by Yong Zheng, Farid Adilazuarda, Jonibek Mansurov, Ruochen Zhang: ["Crosslingual Reasoning through Test-Time Scaling"
 ](https://arxiv.org/abs/2505.05408). It turns out English-only reasoning finetuning, in combination with test-time scaling can give surprising benefits for crosslingual applications, but less so on the long tail of languages and domains.
 - Check out our [blog post on fair and comprehensive multilingual LLM evaluation practices](https://cohere.com/blog/towards-fair-and-comprehensive-multilingual-and-multicultural-llm-benchmarking), a collaboration with AI Singapore.
+
 <!--
 - **Oct 2024**: Back at work after parental leave 👶
 - **EMNLP 2024**: Three scholar-led projects were accepted at EMNLP! Couldn't be more proud of their achievements, it was an honor mentoring them.
