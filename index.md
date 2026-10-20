@@ -76,5 +76,8 @@ The faster model development and releases, the more important become evaluations
 
 ## Contact
 Email: \<lowercase first + last name\>@cohere.com
+LinkedIn: [linkedin.com/in/juliakreutzer](https://www.linkedin.com/in/juliakreutzer/)
+
+
 
 Please don't let your agent email me. I'm allergic to AI slop and agent-authored email hooks, I prefer authentic human-to-human communication with all its imperfections.
